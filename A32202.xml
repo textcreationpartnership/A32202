@@ -1,0 +1,192 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Copies of two papers written by the late King Charles II ; together with a copy of a paper written by the late Dutchess of York ...</title>
+            <author>Charles II, King of England, 1630-1685.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1686</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A32202</idno>
+            <idno type="STC">Wing C2943</idno>
+            <idno type="STC">ESTC R9722</idno>
+            <idno type="EEBO-CITATION">12198345</idno>
+            <idno type="OCLC">ocm 12198345</idno>
+            <idno type="VID">56035</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A32202)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 56035)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 912:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Copies of two papers written by the late King Charles II ; together with a copy of a paper written by the late Dutchess of York ...</title>
+                  <author>Charles II, King of England, 1630-1685.</author>
+                  <author>James II, King of England, 1633-1701.</author>
+                  <author>York, Anne Hyde, Duchess of, 1637-1671.</author>
+               </titleStmt>
+               <extent>11 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Henry Hills ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1686.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Both papers found by James II.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Catholic Church --  Doctrines.</term>
+               <term>Catholic Church --  Apologetic works.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:56035:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 1 -->
+            <p>COPIES Of Two PAPERS Written by the Late King Charles II.</p>
+            <p>TOGETHER With a Copy of a Paper written by the late Dutcheſs of <hi>York.</hi>
+            </p>
+            <p>
+               <hi>Publiſhed by his Majeſties Command.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Henry Hills,</hi> Printer to the King's moſt Excellent Majeſty, for his Houſhold and Chappel. 1686.</p>
+         </div>
+      </front>
+      <body>
+         <div n="1" type="paper">
+            <pb facs="tcp:56035:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 2 -->
+            <argument>
+               <p>
+                  <add>These two next following papers (in my apprehension) seeme rather to be written to King Charles y<hi rend="sup">e</hi> 2<hi rend="sup">d</hi>: &amp; after transcribed by him, than to be endited by him.</add>
+               </p>
+            </argument>
+            <pb n="3" facs="tcp:56035:2"/>
+            <!-- PDF PAGE 2 -->
+            <head>The Firſt Paper.</head>
+            <p>
+               <seg rend="decorInit">T</seg>HE Diſcourſe we had the other Day, I hope ſatisfied you in the main, that Chriſt can have but one Church here upon Earth, and I be<g ref="char:EOLhyphen"/>lieve that it is as viſible as that the Scripture is in Print; That none can be that Church, but that, which is called the <hi>Roman Catholick Church.</hi> I think you need not trouble your ſelf with entring into that Ocean of particular Diſputes, when the main, and, in truth, the only Queſtion is; Where that Church is, which we profeſs to believe in the two Creeds? We declare there to believe <hi>one Catholick, and Apoſtolick Church,</hi> and it is not left to every phan<g ref="char:EOLhyphen"/>taſtical mans head to believe as he pleaſes, but to the Church, to whom Chriſt left the power upon Earth to govern us in matters of Faith, who made theſe Creeds for our directions. It were a very Ir<g ref="char:EOLhyphen"/>rational thing to make Laws for a Country, and leave it to the Inhabitants, to be the Interpreters and Judges of thoſe Laws; For then every man will be his own Judge, and by conſequence no ſuch thing as either right or wrong. Can we therefore ſuppoſe that God Almighty would leave us at thoſe uncertainties, as to give us a Rule to go by, and leave every man to be his own Judge? I do ask any ingenuous man, whether it be not the ſame thing to follow our own Phancy or to inter<g ref="char:EOLhyphen"/>pret the Scripture by it? I would have any man ſhew me, where the power of deciding matters of
+<pb n="4" facs="tcp:56035:3"/>
+               <!-- PDF PAGE 3 -->Faith is given to every particular man. Chriſt left his power to his Church even <hi>to forgive ſins in Heaven,</hi> and left his Spirit with them, which they exerciſed after his Reſurrection: Firſt by his A<g ref="char:EOLhyphen"/>poſtles in theſe Creeds, and many years after by the Council at <hi>Nice,</hi> where that Creed was made that is called by that name, and by the power which they had received from Chriſt, they were the Judges even of the Scripture it ſelf many years after the Apoſtles, which Books were Canonical and which were not. And if they had this power then, I deſire to know how they came to loſe it, and by what Authority men ſeparate themſelves from that Church? The only pretence I ever heard of, was, becauſe the Church has failed in wreſting and interpreting the Scripture contrary to the true ſence and meaning of it, and that they have impoſed Articles of Faith upon us, which are not to be warranted by Gods word? I do deſire to know who is to be Judge of that, whether the whole Church, the Succeſſion whereof has con<g ref="char:EOLhyphen"/>tinued to this day without interruption, or par<g ref="char:EOLhyphen"/>ticular men who have raiſed Schiſms for their own advantage?</p>
+            <closer>
+               <signed>This is a true Copy of a Paper I found in the late King my Brothers <hi>Strong Box,</hi> written in his own Hand. JAMES R.</signed>
+            </closer>
+         </div>
+         <div n="2" type="paper">
+            <pb n="5" facs="tcp:56035:3"/>
+            <!-- PDF PAGE 3 -->
+            <head>The Second Paper.</head>
+            <p>
+               <seg rend="decorInit">I</seg>T is a ſad thing to conſider what a world of Hereſies are crept into this Nation; Every man thinks himſelf as competent a Judge of the Scriptures as the very Apo<g ref="char:EOLhyphen"/>ſtles themſelves; and 'tis no wonder that it ſhould be ſo, ſince that part of the Nation, which looks moſt like a Church, dares not bring the true Arguments againſt the other Sects, for fear they ſhould be turned againſt themſelves, and con<g ref="char:EOLhyphen"/>futed by their own Arguments. The Church of <hi>Eng<g ref="char:EOLhyphen"/>land</hi> (as 'tis call'd) would fain have it thought, that they are the Judges in matters Spiritual, and yet dare not ſay poſitively that there is no Appeal from them; for either they muſt ſay, that they are Infallible (which they cannot pretend to) or con<g ref="char:EOLhyphen"/>feſs that what they decide in matters of Conſcience, is no further to be followed, then it agrees with eve<g ref="char:EOLhyphen"/>ry mans private judgment. If Chriſt did leave a Church here upon Earth, and we were all once of that Church, how? and by what Authority, did we ſeparate from that Church? If the power of Inter<g ref="char:EOLhyphen"/>preting of Scripture be in every mans brain, what need have we of a Church or Church-men? To what purpoſe then did our Saviour, after he had given his Apoſtles power to <hi>Bind and Looſe in Heaven and Earth,</hi> add to it, <hi>that he would be with them even to the End of the World?</hi> Theſe words were not ſpoken Parabolically, or by way of Figure. Chriſt was then aſcending into his Glory, and left his
+<pb n="6" facs="tcp:56035:4"/>
+               <!-- PDF PAGE 4 -->power with his Church even <hi>to the End of the World.</hi> We have had theſe hundred years paſt, the ſad effects of denying to the Church that Power in matters Spiritual, without an Appeal. What Country can ſubſiſt in peace or quiet, where there is not a Supream Judge from whence there can be no Appeal? Can there be any Juſtice done where the Offenders are their own Judges, and equal Interpreters of the Law, with thoſe that are appointed to adminiſter Juſtice? This is our Caſe here in <hi>England</hi> in matters Spiritual; for the Pro<g ref="char:EOLhyphen"/>teſtants are not of the Church of <hi>England,</hi> as 'tis the true Church from whence there can be no Appeal; but becauſe the Diſcipline of that Church is conformable at that preſent to their fancies, which as ſoon as it ſhall contradict or vary from, they are ready to embrace or joyn with the next Congrega<g ref="char:EOLhyphen"/>tion of People, whoſe Diſcipline and Worſhip agrees with their opinion at that time; ſo that ac<g ref="char:EOLhyphen"/>cording to this Doctrine there is no other Church, nor Interpreter of Scripture but that which lies in every mans giddy brain. I deſire to know therefore of every ſerious conſiderer of theſe things, whether the great work of our Salvation ought to depend upon ſuch a Sandy foundation as this? Did Chriſt ever ſay to the Civil Magiſtrate (much leſs to the People) <hi>that he would be with them to the End of the World?</hi> Or, did he give them the power <hi>to forgive Sins?</hi> St. <hi>Paul</hi> tells the <hi>Corinthians, Ye are Gods Husbandry, ye are Gods Building; we are Labourers with God.</hi> This ſhews who are the <hi>Labourers,</hi> and who are the <hi>Husbandry</hi> and <hi>Building,</hi> And in this whole Chapter and in the preceding one, S. <hi>Paul</hi> takes great pains to ſet forth that they, the Clergy, <hi>have the Spirit of God, without which no man ſearch<g ref="char:EOLhyphen"/>eth
+<pb n="7" facs="tcp:56035:4"/>
+                  <!-- PDF PAGE 4 -->the deep things of God;</hi> and he concludeth the Chapter with this Verſe, <hi>For who hath known the mind of the Lord that he may inſtruct him? But we have the mind of Chriſt.</hi> Now if we do but conſider in humane probability and reaſon, the powers Chriſt leaves to his Church in the Goſpel, and St. <hi>Paul</hi> explains ſo diſtinctly afterwards, we cannot think that our Saviour ſaid all theſe things to no purpoſe; And pray conſider on the other ſide, that thoſe, who reſiſt the truth, and will not ſubmit to his Church, draw their Arguments from Impli<g ref="char:EOLhyphen"/>cations, and far fetch'd Interpretations, at the ſame time that they deny plain and poſitive words; which is ſo great a Diſingenuity, that 'tis not almoſt to be thought that they can believe themſelves. Is there any other foundation of the Proteſtant Church, but that if the Civil Magiſtrate pleaſe, he may call ſuch of the Clergy as he thinks fit for his turn at that time; and turn the Church either to <hi>Presbytery, Independency,</hi> or indeed what he pleaſes? This was the way of our pretended Reformation here in <hi>England;</hi> and by the ſame Rule and Au<g ref="char:EOLhyphen"/>thority it may be altered into as many more Shapes and Forms as there are Fancies in mens Heads.</p>
+            <closer>
+               <signed>This is a true Copy of a Paper written by the late King my Brother in his own Hand, which I found in his Cloſet. <hi>JAMES R.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="8" facs="tcp:56035:5"/>
+            <!-- PDF PAGE 5 -->
+            <p>
+               <seg rend="decorInit">I</seg>T is ſo Reaſonable to expect, that a perſon always Bred up in the Church of <hi>England,</hi> and as well Inſtructed in the Doctrine of it, as the beſt Divines, and her capacity could make her, ſhould be liable to many cenſures, for leaving That, and making her ſelf a member of the <hi>Roman Catholick Church,</hi> to which, I confeſs, I was one of the greateſt enemies it ever had; That I chooſe rather to endeavour to ſatisfie my friends, by reading this Paper, then to have the trouble, to anſwer all the queſtions that may dayly be asked me: And firſt, I do proteſt in the preſence of Al<g ref="char:EOLhyphen"/>mighty God; That no Perſon, Man, or Woman, Directly, nor Indirectly, ever ſaid any thing to me (ſince I came into <hi>England</hi>) or uſed the leaſt endeavour to make the change my Religion: It is a bleſſing I wholly owe to Almighty God, and I hope the hearing of a Prayer I dayly made him, ever ſince I was in <hi>France,</hi> and <hi>Flanders;</hi> Where ſeeing much of the Devotion of the Catholicks (tho I had very little my ſelf) I made it my con<g ref="char:EOLhyphen"/>tinual requeſt to Almighty God; That, if I were not, I might, before I died, be in the true Reli<g ref="char:EOLhyphen"/>gion: I did not in the leaſt doubt, but that I was ſo, and never had any manner of ſcruple till <hi>No<g ref="char:EOLhyphen"/>vember</hi> laſt; When reading a book, called <hi>the Hiſto<g ref="char:EOLhyphen"/>ry of the Reformation,</hi> by Doctor <hi>Heylin,</hi> which I had heard very much commended, and had been told, if ever I had any doubt in my Religion, that would ſettle me; Inſtead of which, I found it the deſcription of the horrideſt Sacriledges in the
+<pb n="9" facs="tcp:56035:5"/>
+               <!-- PDF PAGE 5 -->World; And could find no reaſon, why we left the Church, but for Three the moſt Abominable ones, that were ever heard of amongſt Chriſtians: Firſt, <hi>Henry</hi> the Eighth Renounces the Pope's Au<g ref="char:EOLhyphen"/>thority, becauſe he would not give him leave to part with his Wife, and Marry another, in her life<g ref="char:EOLhyphen"/>time: Secondly, <hi>Edward</hi> the Sixth was a Child, and govern'd by his Uncle, who made his Eſtate out of Church Lands. And then Queen <hi>Elizabeth,</hi> who being no Lawful Heireſs to the Crown, could have no way to keep it, but by Renouncing a Church that could never ſuffer ſo Unlawful a thing to be done by one of Her Children. I con<g ref="char:EOLhyphen"/>feſs, I cannot think the Holy Ghoſt could ever be in ſuch Counſels; and it is very ſtrange, that, if the Biſhops had no deſign, but (as they ſay) the reſto<g ref="char:EOLhyphen"/>ring us to the Doctrine of the Primitive Church; they ſhould never think upon it, till <hi>Henry</hi> the Eighth made the Breach upon ſo Unlawful a Pre<g ref="char:EOLhyphen"/>tence. Theſe Scruples being raiſed, I begun to con<g ref="char:EOLhyphen"/>ſider of the difference between the Catholicks and Us; and Examin'd them as well as I could by the Holy Scripture, which, though I do not pretend to be able to underſtand, yet, there are ſome things I found ſo eaſie, that I cannot but wonder, I had been ſo long without finding them out: As <hi>the Real Preſence in the Bleſſed Sacrament, the Infallibi<g ref="char:EOLhyphen"/>lity of the Church, Confeſſion, and Praying for the Dead.</hi> After this,<note place="margin">
+                  <hi>Sheldom</hi> A.B. of <hi>Cant. Blandford</hi> B. of <hi>Worceſt.</hi>
+               </note> I ſpoke ſeverally to Two of the beſt Biſhops we have in <hi>England,</hi> who both told me, there were many things in the <hi>Roman</hi> Church, which (it were very much to be wiſhed) we had kept; As Confeſſion, which was, no doubt, Commanded by God: That Praying for the Dead was one of the Ancient things in Chriſtianity:
+<pb n="10" facs="tcp:56035:6"/>
+               <!-- PDF PAGE 6 -->That for their parts, they did it Daily, though they would not own it: And afterwards, preſſing one of them very much upon the other Points, he told me,<note place="margin">
+                  <hi>Blandford</hi> B. of <hi>Worceſt.</hi>
+               </note> That if he had been bred a Catholick, he would not change his Religion; but, that being of another Church, wherein, he was ſure, were all things neceſſary to Salvation, he thought it very ill, to give that Scandal, as to leave that Church, wherein he had received his Baptiſm.</p>
+            <p>All theſe Diſcourſes did but add more to the deſire I had, to be a Catholick, and gave me the moſt terrible Agonies in the World, within my ſelf. For all this, fearing to be raſh in a matter of that Weight, I did all I could to ſatisfie my ſelf; made it my Daily Prayer to God, to ſettle me in the Right, and ſo went on <hi>Chriſtmaſs-day</hi> to Re<g ref="char:EOLhyphen"/>ceive in the King's Chappel; after which, I was more troubled then ever, and could never be in quiet, till I had told my deſire to a Catholick, who brought a Prieſt to me, and that was the Firſt I ever did Converſe with, upon my Word. The more I ſpoke to him, the more I was Confirm'd in my deſign; and, as it is impoſſible for me to doubt of the Words of our Bleſſed Saviour, who ſays, the Holy Sacrament is his Body and Blood, ſo I cannot Believe, that He who is the Author of all truth, and who has promis'd <hi>to be with his Church to the End of the World,</hi> would permit them to give that Holy Myſtery to the Laiety but in one kind, if it were not Lawful ſo to do.</p>
+            <p>I am not able, or, if I were, would I enter into Diſputes with any Body; I only in ſhort, ſay this for the changing of my Religion, which I take God to Witneſs I would never have done, if I had thought it poſſible to Save my Soul otherwiſe. I
+<pb n="11" facs="tcp:56035:6" rendition="simple:additions"/>
+               <!-- PDF PAGE 6 -->think, I need not ſay, it is any Intereſt in this World leads me to it: It will be plain enough to every body, that I muſt loſe all the Friends, and Credit I have here, by it; and have very well weighed, which I could beſt part with, my ſhare in this world, or the next: I thank God I found no difficulty in the Choice.</p>
+            <p>My only Prayer is, that the poor Catholicks of this Nation, may not ſuffer for my being of their Religion: That God would but give me Patience to bear them, and then, ſend me any afflictions in this World, ſo I may enjoy a Bleſſed Eternity hereafter.</p>
+            <closer>
+               <dateline>St. James's <date>Aug. 20th. 1670.</date>
+               </dateline>
+            </closer>
+            <argument>
+               <p>
+                  <add>This mistaken &amp; deceived lady deserues lamentation.</add>
+               </p>
+            </argument>
+         </div>
+      </body>
+   </text>
+</TEI>
